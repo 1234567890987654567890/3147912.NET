@@ -1,0 +1,14 @@
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.AssemblyInfo.cs
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\bin\Debug\net8.0\EstructuraDeControl.exe
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\bin\Debug\net8.0\EstructuraDeControl.deps.json
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\bin\Debug\net8.0\EstructuraDeControl.runtimeconfig.json
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\bin\Debug\net8.0\EstructuraDeControl.dll
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\bin\Debug\net8.0\EstructuraDeControl.pdb
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.dll
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\refint\EstructuraDeControl.dll
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.pdb
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.genruntimeconfig.cache
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\ref\EstructuraDeControl.dll
