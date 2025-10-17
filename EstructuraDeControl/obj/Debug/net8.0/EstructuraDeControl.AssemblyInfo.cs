@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstructuraDeControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb860f644f44ec6b506ee07a89a68833d63f498")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstructuraDeControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstructuraDeControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

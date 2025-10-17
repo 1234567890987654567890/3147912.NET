@@ -12,3 +12,4 @@ C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net
 C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.pdb
 C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.genruntimeconfig.cache
 C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\ref\EstructuraDeControl.dll
+C:\Users\Sena\source\repos\EstructuraDeControl\EstructuraDeControl\obj\Debug\net8.0\EstructuraDeControl.sourcelink.json
